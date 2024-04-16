@@ -1,0 +1,22 @@
+{
+  "name": "currency-converter-in-typescript",
+  "version": "1.0.0",
+  "description": "\"currecny converter in typescript\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"farzam yousuf\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.5"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17",
+    "undici-types": "^5.26.5"
+  }
+}
